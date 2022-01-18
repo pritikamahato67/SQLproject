@@ -1,0 +1,2 @@
+# SQLproject
+imdb case study
